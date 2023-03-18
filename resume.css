@@ -1,0 +1,124 @@
+html {
+    height: 400%;
+}
+
+body {
+     background: linear-gradient(#5252d4, #8b8beb, #eb1636, #242130);
+     font-family: arial;
+}
+h2 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+#hi {
+    border-bottom: solid pink;
+}
+
+img {
+    border-radius: 50px;
+    padding: 50px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-bottom: solid #8b8beb;
+    border-top: solid #8b8beb;
+    border-right: solid #8b8beb;
+    border-left: solid #8b8beb;
+    background-color: #5252d4;
+}
+
+.cute h1 {
+    border: solid black;
+    width: 300px;
+    font-size: 25px;
+    color: white;
+
+    
+}
+.cute p {
+    color: white;
+}
+
+.cute b {
+    color: black;
+}
+.cute h1 {
+    border:  2px solid black  ;
+    width: 400px;
+}
+.cute p,b {
+    font-size: 20px;
+}
+
+.cute {
+    border-bottom: solid ;
+}
+
+.cute1 h4 {
+    font-size: 25px;
+    border: solid white;
+    width: 300px;
+    color: black;
+} 
+
+.cute1 p {
+    font-size: 20px;
+    
+    
+    color: white;
+
+}
+.cute1 {
+    border-bottom: solid;
+}
+
+.cute2 h5 {
+    font-size: 25px;
+    border: solid black;
+    width: 300px;
+    color: white;
+}
+.cute2 p {
+    
+    
+    font-size: 20px;
+    color: white;
+}
+.cute2 b {
+    font-size: 20px;
+    color: white;
+}
+.hi1 h1 {
+    font-size: 30px;
+    border: solid black;
+    width: 300px;
+    color: white;
+
+}
+.hi1 p {
+    font-size: 20px;
+}
+
+.cute2 {
+    border-bottom: solid;
+}
+
+.cute3 h6 {
+    font-size: 25px;
+    border: solid black;
+    width: 300px;
+
+}
+.cute3 p {
+    font-size: 20px;
+    
+    
+}
+.cute3 {
+    color: white;
+}
+.cute3 {
+    border-bottom: solid black; 
+}
